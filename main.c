@@ -19,7 +19,7 @@ int main(void){
     strcpy(fun2.position.acronym, "BDSE");
     strcpy(fun2.position.designation, "Big Data Support Engineer");
 
-    printf("My new employee is my love\n");
+    printf("My new employee was a great hire.\n");
     functionaryPrint(fun1);
 
     //A pointer to modify the name specified in the structure
